@@ -2,9 +2,16 @@
 
 module.exports = {
     rules: {
-        'no-console': 'off',
-        'indent': ['error', 4],
-        'no-unused-vars': 'off',
-        'space-before-function-paren': ['error', 'always']
+        'no-console': 0,
+        'indent': [2, 4],
+        'no-unused-vars': 0,
+        'space-before-function-paren': [0, 'always'],
+        'require-jsdoc': [1, {
+            'require': {
+                'FunctionDeclaration': true,
+                'MethodDefinition': true,
+                'ClassDeclaration': true,
+            }
+        }],
     },
 };
