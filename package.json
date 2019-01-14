@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-renew",
+  "version": "0.1.0",
+  "description": "ESLint shareable config for Renew JavaScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uni-hamburg/eslint-config-renew.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uni-hamburg/eslint-config-renew/issues"
+  },
+  "homepage": "https://github.com/uni-hamburg/eslint-config-renew#readme"
+}
