@@ -6,12 +6,13 @@ module.exports = {
         'indent': [2, 4],
         'no-unused-vars': 0,
         'space-before-function-paren': [0, 'always'],
+        'object-curly-spacing': 'always',
         'require-jsdoc': [1, {
             'require': {
                 'FunctionDeclaration': true,
                 'MethodDefinition': true,
-                'ClassDeclaration': true,
+                'ClassDeclaration': true
             }
-        }],
-    },
+        }]
+    }
 };
