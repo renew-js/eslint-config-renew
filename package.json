@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-renew",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "ESLint shareable config for Renew JavaScript projects.",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uni-hamburg/eslint-config-renew.git"
+    "url": "git+https://github.com/renew-js/eslint-config-renew.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/uni-hamburg/eslint-config-renew/issues"
+    "url": "https://github.com/renew-js/eslint-config-renew/issues"
   },
-  "homepage": "https://github.com/uni-hamburg/eslint-config-renew#readme"
+  "homepage": "https://github.com/renew-js/eslint-config-renew#readme"
 }
