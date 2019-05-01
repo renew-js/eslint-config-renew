@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-renew",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "ESLint shareable config for Renew JavaScript projects.",
   "main": "index.js",
   "scripts": {
